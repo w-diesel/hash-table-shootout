@@ -54,9 +54,7 @@ program_slugs = [
     'stl_unordered_map',
     'boost_unordered_map',
     'python_dict',
-    'ruby_hash',
     'glib_hash_table',
-    'qt_qhash',
 ]
 
 chart_data = {}
