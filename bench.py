@@ -6,9 +6,7 @@ programs = [
     'boost_unordered_map',
     'google_sparse_hash_map',
     'google_dense_hash_map',
-    'qt_qhash',
     'python_dict',
-    'ruby_hash',
 ]
 
 minkeys  =  2*1000*1000
