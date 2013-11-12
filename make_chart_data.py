@@ -43,9 +43,7 @@ proper_names = {
     'google_sparse_hash_map': 'Google sparsehash 1.5.2 sparse_hash_map',
     'google_dense_hash_map': 'Google sparsehash 1.5.2 dense_hash_map',
     'glib_hash_table': 'Glib 2.22 GHashTable',
-    'qt_qhash': 'Qt 4.5 QHash',
     'python_dict': 'Python 2.6 (C API) dict',
-    'ruby_hash': 'Ruby 1.9 (C API) Hash',
 }
 
 # do them in the desired order to make the legend not overlap the chart data
